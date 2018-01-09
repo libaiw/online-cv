@@ -8,16 +8,21 @@ baseurl: '/online-cv' #change it according to your repository name
 #style: styles-3
 #style: styles-4
 #style: styles-5
-#style: styles-6
+style: styles-6
 
 #Profile information
 name: Mike Lee
-tagline: Full Stack Developer
+tagline: Data Intelligent Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
 commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
 montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'Technology Innovation Leader, exploiting emerging technologies like IoT (Internet of Thing) to build Business Intelligence, Cloud / BigData Marketing solutions & Data analysis with Python. 
+Custom Development, Leading team to leverage full lifecycle Software development services using a wide variety of technologies. Been committed to customer’s success with eagerly digging deeper to understand customer’s business. Developing IoT projects with planning, orchestrated execution, and constant communication as well as quick checks. 
+Hold the reputation as "problem solver for both technology and business", Proven success in building top-performing technology team that thrive on continuous learning, embrace creativity and excel through innovation.
+'
+
 
 #sidebar links
 email: hello@webjeda.com
