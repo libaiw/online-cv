@@ -7,8 +7,8 @@ baseurl: '/online-cv' #change it according to your repository name
 #style: styles-2
 #style: styles-3
 #style: styles-4
-#style: styles-5
-style: styles-6
+style: styles-5
+#style: styles-6
 
 #Profile information
 name: Mike Lee
@@ -25,12 +25,12 @@ Hold the reputation as "problem solver for both technology and business", Proven
 
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: libaiw@gmail.com
+phone: 617 412 0448
+website: libaiw.github.io/blogger/ #do not add http://
+linkedin: mike-li-02a327103
+github: libaiw
+twitter: '@libaiw'
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
