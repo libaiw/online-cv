@@ -1,23 +1,11 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: "Right now, I am working on some python projects related with finacial big data for my personal interests."
 
 - project:
-  title: Velocity
+  title: Python Financial BD
   link: "#hook"
   tagline: "A responsive website template designed to help startups promote, market and sell their products."
-- project:
-  title: DevStudio
-  link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
-- project:
-  title: Tempo
-  link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-- project:
-  title: Atom
-  link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
 - project:
   title: Delta
   link: "#"
