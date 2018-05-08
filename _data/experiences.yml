@@ -3,10 +3,10 @@
   role: Data Miner 
   time: Mar 2018 – Present
   company: Freelancer
-  details: "• Trying  to build the simple trading bot with python with trading algorithm implemented, and running a statisticall analysis with developed a pricing model as well as backtesting setup.
+  details: "• Trying to build the simple trading bot with trading algorithm implemented using Python, and running a statisticall analysis with developed a pricing model as well as backtesting setup.
 <br>• Looking for the data patern which was involved with CNNs(Convolutional Neural Networks) and reinforcement learning in traininged on historical stock data paried wth sentiment analysis.
 <br>• Using Monte-Carlo simulations to price equity and exotic options, data-visualization projects, and preparing financial models for speculative funcitons.
-<br>• Techiniques are mainly used: Machine Learning (Python) Application Development (C++/Python), Data Analysis (R/Matlab), Financial Modeling (Excel); some concepts borrowed from mixed signal processing and deteection theory with vector machine, classifiers, along with various TA(technical analysis) indicators.
+<br>• Techiniques are mainly used: Machine Learning (Python) Application Development (C++/Python), Data Analysis (R/Matlab), Financial Modeling (Excel); some concepts borrowed from mixed signal processing and deteection theory with SVM, classifiers, along with various TA(technical analysis) indicators.
 <br>• Future tasks will be integrate the kernel algorithm with other financial platforms and data feeds for  optizmized trading strategies, automated execution algorithms, portfolio optimization models, and user-friendly GUI tools. 
 "  
 - experience:
