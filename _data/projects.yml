@@ -1,12 +1,12 @@
 - intro:
-  description: "Right now, I am working on some python projects related with finacial big data for my personal interests."
+  description: "Right now, I am working on some python projects related with finacial data for my personal interests."
 
 - project:
   title: Python Financial BD
   link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  tagline: ""
 
 - project:
   title: Delta
   link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  tagline: ""
