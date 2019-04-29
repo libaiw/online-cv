@@ -1,13 +1,13 @@
 
 - experience:
-  role: Freelancer - Data Scientist 
-  time: Mar 2018 – Present
-  company: Data 
-  details: "• Try to build the simple trading bot with trading algorithm implemented using Python, and running a statisticall analysis with developed a pricing model as well as backtesting setup.
-<br>• Look for the data patern which was involved with CNNs(Convolutional Neural Networks) and reinforcement learning in traininged on historical stock data paried wth sentiment analysis.
-<br>• Use Monte-Carlo simulations to price equity and exotic options, data-visualization projects, and preparing financial models for speculative funcitons.
-<br>• Techiniques are mainly used: Machine Learning (Python) Application Development (C++/Python), Data Analysis (R/Matlab), Financial Modeling (Excel); some concepts borrowed from mixed signal processing and deteection theory with SVM, classifiers, along with various TA(technical analysis) indicators.
-<br>• Future tasks will be integrate the kernel algorithm with other financial platforms and data feeds for  optizmized trading strategies, automated execution algorithms, portfolio optimization models, and user-friendly GUI tools. 
+  role: Senior Data Scientist 
+  time: Mar 2018 – Apr 2019
+  company: Beijing Meilun Transport Ltd. Co. 
+  details: "• Mainly responsible for data analysis and modeling of commodities and logistics. Brand DNA dimension analysis, hierarchical modeling..
+<br>• Responsible for the company's recommended product development work, during the major completion of the company's recommendation system design and development work, including product similarity model, product cross recommendation model, SMS marketing user layering algorithm research and development, using AI concept and BigData mining method to establish the company brand DNA dimension table, product DNA dimension table, customer DNA dimension table and other basic algorithms.
+<br>•	Develop a new generation of commodity management system planning, and look for the data patern which was involved with CNNs(Convolutional Neural Networks) and reinforcement learning in training on historical data paired wth deep analysis.
+<br>• Techniques are mainly included: Machine Learning Application Development (C++/Python), Data Modeling & Analysis (R/Matlab, Simulink), Data Collection (Excel); some concepts borrowed from mixed signal processing and detection theory with SVM, classifiers.
+<br>• Work closely with the project team, lead the data team in data analysis or data mining projects, and assist consultants in writing pre-sales materials and train new employees. 
 "  
 - experience:
   role: Regional Project Manager (RPM)
