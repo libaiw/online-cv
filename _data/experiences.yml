@@ -1,31 +1,16 @@
+ 
+- experience:
+  role: Project Manager (PM)
+  time: Jan 2022 - Jan 2024
+  company: Shangfei Infinite Studio, LLC
+  details: "• Spearheaded the development and expansion of AI convenience store solutions in the US market,  demonstrating expertise in data-driven project management
+<br>• Implemented IT operations for a delivery company, enhancing operational efficiency through technology integration
+<br>• Collaborated with cross-functional teams to achieve business objectives, leading to significant revenue growth and market penetration.
 
-- experience:
-  role: Senior Data Scientist 
-  time: Mar 2018 – Apr 2019
-  company: Beijing Meilun Transport Ltd. Co. 
-  details: "• Mainly responsible for data analysis and modeling of commodities and logistics. Brand DNA dimension analysis, hierarchical modeling..
-<br>• Responsible for the company's recommended product development work, during the major completion of the company's recommendation system design and development work, including product similarity model, product cross recommendation model, SMS marketing user layering algorithm research and development, using AI concept and BigData mining method to establish the company brand DNA dimension table, product DNA dimension table, customer DNA dimension table and other basic algorithms.
-<br>•	Develop a new generation of commodity management system planning, and look for the data patern which was involved with CNNs(Convolutional Neural Networks) and reinforcement learning in training on historical data paired wth deep analysis.
-<br>• Techniques are mainly included: Machine Learning Application Development (C++/Python), Data Modeling & Analysis (R/Matlab, Simulink), Data Collection (Excel); some concepts borrowed from mixed signal processing and detection theory with SVM, classifiers.
-<br>• Work closely with the project team, lead the data team in data analysis or data mining projects, and assist consultants in writing pre-sales materials and train new employees. 
-"  
-- experience:
-  role: Regional Project Manager (RPM)
-  time: Jul 2017 - Feb 2018
-  company: MedAvante-ProPhase, Inc – A WIRB-Copernicus Group Company
-  details: "• Help PD to recruit and organize members of the project team locally in region China. Conduct the training and mentoring tasks as a leading role to make the customer's further service with customer 100% satisfaction.<br>
-• Build and implement the mobile APP application of the project's tools, meanwhile preparing the operating manuals and related documents, so that customers have more convenient tool which was praised by both the headquarter office and customers.
-<br>• Lead the team to analyze the data processing flow, and optimize and update it, making the key steps smarter, 
-smoother, and 20% more efficient.
-<br>• Day-to-day relationship management with key clients; good management of projects through the development of key control documents, start-up period, implementation, and study closeout.
-<br>• Define project scope, goals, and deliverables that support project requirements and business goals in collaboration with Executive Management, Operations, and internal study team.
-<br>• Draft key project study documents including the Training Plan, Communication/Escalation Plan, Scale Management Plan, and all other relevant documents
-<br>• Provide tracking of issues and their resolution on individual protocols, Ensure production of all training materials, translations, patient binders, scale licensing, and budgets occurs in a timely manner
-<br>• Data collection from Sites and initialized analysis compared with the standard format as well as error corrections.
 "
 - experience:
   role: Technical Director & Co-Founder 
-  time: Apr 2014 - Jun 2017
+  time: Apr 2014 - Dec 2021
   company: Bairetech Network Inc.
   details: "•	Launched big-data based high-tech startup, and achieved IoT projects complements successfully, such as “Driver Safety data collecting and analysis system”, “Cuisine Business VIP customers resources management platform”, “High Building healthy monitoring system”; HBHMS system had been implemented successfully on the Hongye Building in Technology Park of Wuhan University, and parts of integration monitoring system of  Three Gorges Dam in Zigui of Yichang, High Building status monitoring in Ningbo, Zhejiang.
 <br>•	Extensive experience in Python, R language and java web development as well, rich client presentation technologies. Expert in Matlab, C++, SQL software tools and all kinds of database applications. Ability to use different base platform application for servers and client which contain with Hadoop, Distribute Computation, Cloud technology as the most frequently used.
